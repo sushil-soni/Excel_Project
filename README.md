@@ -4,7 +4,7 @@
 
 An interactive Excel dashboard built on the Sample Superstore dataset (2014-2017).
 
-![Superstore Dashboard](Superstore-Dashboard.png)
+![Superstore Dashboard](Superstore_Dashboard.png)
 
 ### 📌 Key Highlights
 - Cleaned and analyzed the Superstore data using Excel
