@@ -18,4 +18,4 @@ An interactive Excel dashboard built on the Sample Superstore dataset (2014-2017
 - [Dashboard Screenshot](Superstore-Dashboard.png)
 
 ### 🛠️ Tools Used
-Excel, Pivot Tables, Slicers, Data Cleanin
+Excel, Pivot Tables, Slicers, Data Cleaning
