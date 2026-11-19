@@ -13,9 +13,9 @@ An interactive Excel dashboard built on the Sample Superstore dataset (2014-2017
 - Interactive dashboard with Category and Year slicers
 
 ### 📂 Files
-- [Raw Data (CSV)](Superstore-Raw-Data.csv)
+- [Raw Data (CSV)](Superstore_Data.csv)
 - [Dashboard File (Excel)](Superstore_Project.xlsx)
-- [Dashboard Screenshot](Superstore_Dashboard.png)
+- [Dashboard Screenshot](Superstore-Dashboard.png)
 
 ### 🛠️ Tools Used
 Excel, Pivot Tables, Slicers, Data Cleaning
